@@ -1,3 +1,5 @@
+// Copyright (C) 2020 RyuichiUeda and Rou Hishinuma. All right reserved
+
 #include <linux/module.h>
 #include <linux/fs.h>
 #include <linux/cdev.h>
