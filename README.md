@@ -34,6 +34,6 @@ $ echo 0 > /dev/myled10
 ```
 
 ## ライセンス
-[GNU Affero General Public License v3.0](https://github.com/RouHishinuma/Robosys_Task1/blob/master/COPYING)
+[GNU General Public License v3.0](https://github.com/RouHishinuma/Robosys_Task1/blob/master/COPYING)
 
 
