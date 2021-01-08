@@ -14,15 +14,16 @@ LEDを4つ点灯させるデバイスドライバ
 - https://youtu.be/c9RqI9lCCIk
 
 ## インストール方法
-
-
+```
+$ git clone https://github.com/RouHishinuma/Robosys_Task1.git
+```
 
 ## 使用方法
 
 ```
 $ make
-$ sudo insmod myled1.ko
-$ sudo chmod 666 /dev/myled10
+$ sudo insmod myled.ko
+$ sudo chmod 666 /dev/myled0
 ```
 ```
 点灯
@@ -32,5 +33,6 @@ $ echo 0 > /dev/myled10
 ```
 
 ## ライセンス
+[GNU Affero General Public License v3.0](https://github.com/RouHishinuma/Robosys_Task1/blob/master/COPYING)
 
 
